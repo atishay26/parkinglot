@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed86456b-31f3-44ea-82dc-aa6d199778f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VveYpAESuzcJtid5sRII42GMiq" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.parkinglot.example.validation" />
+      <recent name="com.parkinglot.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ParkingLotApplication">
+    <configuration name="ParkingLotApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.parkinglot.example.ParkingLotApplication" />
+      <module name="example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parkinglot.example.validation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestValidatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.parkinglot.example.validation.RequestValidatorTest" />
+      <module name="example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parkinglot.example.validation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestValidatorTest.testEnum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parkinglot.example.validation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.parkinglot.example.validation" />
+      <option name="MAIN_CLASS_NAME" value="com.parkinglot.example.validation.RequestValidatorTest" />
+      <option name="METHOD_NAME" value="testEnum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestValidatorTest.validateParkingLotRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parkinglot.example.validation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.parkinglot.example.validation" />
+      <option name="MAIN_CLASS_NAME" value="com.parkinglot.example.validation.RequestValidatorTest" />
+      <option name="METHOD_NAME" value="validateParkingLotRequest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestValidatorTest.validateParkingLotRequestException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parkinglot.example.validation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.parkinglot.example.validation" />
+      <option name="MAIN_CLASS_NAME" value="com.parkinglot.example.validation.RequestValidatorTest" />
+      <option name="METHOD_NAME" value="validateParkingLotRequestException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ParkingLotApplication" />
+        <item itemvalue="Application.RequestValidatorTest" />
+        <item itemvalue="JUnit.RequestValidatorTest.testEnum" />
+        <item itemvalue="JUnit.RequestValidatorTest.validateParkingLotRequestException" />
+        <item itemvalue="JUnit.RequestValidatorTest.validateParkingLotRequest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed86456b-31f3-44ea-82dc-aa6d199778f9" name="Default Changelist" comment="" />
+      <created>1695721032480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695721032480</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="99" key="#com.intellij.ide.util.MemberChooser" timestamp="1695722005929">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="99" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1695722005929" />
+    <state x="531" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1695721121495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1695721121495" />
+    <state x="263" y="309" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1695722565305">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="309" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1695722565305" />
+    <state x="479" y="243" width="435" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1695722724307">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="243" width="435" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1695722724307" />
+    <state x="479" y="264" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1695722566899">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="264" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1695722566899" />
+    <state x="438" y="86" key="#xdebugger.evaluate" timestamp="1695738644456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="86" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1695738644456" />
+    <state width="1323" height="213" key="GridCell.Tab.0.bottom" timestamp="1695745728078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1695745728078" />
+    <state width="1323" height="213" key="GridCell.Tab.0.center" timestamp="1695745728078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1695745728078" />
+    <state width="1323" height="213" key="GridCell.Tab.0.left" timestamp="1695745728077">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1695745728077" />
+    <state width="1323" height="213" key="GridCell.Tab.0.right" timestamp="1695745728078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1695745728078" />
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom" timestamp="1695745728078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1695745728078" />
+    <state width="1323" height="213" key="GridCell.Tab.1.center" timestamp="1695745728078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1695745728078" />
+    <state width="1323" height="213" key="GridCell.Tab.1.left" timestamp="1695745728078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1695745728078" />
+    <state width="1323" height="213" key="GridCell.Tab.1.right" timestamp="1695745728078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1695745728078" />
+    <state x="413" y="119" key="extract.method.dialog" timestamp="1695742866473">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1695742866473" />
+  </component>
+</project>
